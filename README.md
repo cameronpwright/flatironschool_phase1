@@ -1,6 +1,9 @@
 # Phase 1 Project - Aviation Incidents
 
-## Contents
+## Data Used in Analysis
+The data used in this analysis of aviation incidents is sourced from Kagglehub and is linked here: https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses 
+
+## Repository Contents
 
 This repository contains the following items:
 <ul> 
